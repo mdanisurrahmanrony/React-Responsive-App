@@ -1,4 +1,4 @@
-# React Responsive Bootstrap App
+# React Responsive App
 
 This is a simple React Responsive App.
 
